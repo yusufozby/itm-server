@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v43Ab2cnmf4hbj1GhSk7w32jhiTqM6wBnTjwKvgxens=",
+  "Source": "ITM_Server",
+  "BasePath": "_content/ITM_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
